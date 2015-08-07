@@ -1,5 +1,5 @@
 package com.system.aspea.beans;
 
-public class Allegato8 {
+public class StrumentoInterno {
 
 }
